@@ -21,7 +21,7 @@ body:
             I had searched in the [issues](https://github.com/eosphoros-ai/DB-GPT/issues?q=is%3Aissue) and found
             no similar issues.
           required: true
-
+    if you don't know the module name, you don't have to fill it in.
   - type: dropdown
     id: system-information
     attributes:
